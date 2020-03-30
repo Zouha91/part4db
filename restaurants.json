@@ -1,92 +1,14 @@
 [
-    {
+  {
       "id": 1,
-      "name": "Monday",
-      "menuitems": [
-        {
-          "id": 1,
-          "name": "Pizza1"
-        },
-        {
-          "id": 2,
-          "name": "Pizza2"
-        },
-        {
-          "id": 3,
-          "name": "Pizza3"
-        }
-      ]
-    },
-    {
+      "name": "Nakkimesta"
+  },
+  {
       "id": 2,
-      "name": "Tuesday",
-      "menuitems": [
-        {
-          "id": 1,
-          "name": "Pizza1"
-        },
-        {
-          "id": 2,
-          "name": "Pizza2"
-        },
-        {
-          "id": 3,
-          "name": "Pizza3"
-        }
-      ]
-    },
-    {
+      "name": "Kebabbila"
+  },
+  {
       "id": 3,
-      "name": "Wednesday",
-      "menuitems": [
-        {
-          "id": 1,
-          "name": "Pizza1"
-        },
-        {
-          "id": 2,
-          "name": "Pizza2"
-        },
-        {
-          "id": 3,
-          "name": "Pizza3"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Thursday",
-      "menuitems": [
-        {
-          "id": 1,
-          "name": "Pizza1"
-        },
-        {
-          "id": 2,
-          "name": "Pizza2"
-        },
-        {
-          "id": 3,
-          "name": "Pizza3"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Friday",
-      "menuitems": [
-        {
-          "id": 1,
-          "name": "Pizza1"
-        },
-        {
-          "id": 2,
-          "name": "Pizza2"
-        },
-        {
-          "id": 3,
-          "name": "Pizza3"
-        }
-      ]
-    }
-  ]
+      "name": "Ravintola Roiskelappa"
+  }
+]
