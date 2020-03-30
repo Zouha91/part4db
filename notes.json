@@ -1,4 +1,5 @@
-[
+{
+    "notes":[
     {
         "id": 1,
         "name": "Note1",
@@ -15,3 +16,4 @@
         "content": "Note3 content"
     }
   ]
+}
