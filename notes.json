@@ -23,7 +23,7 @@
         "id": 5,
         "name": "Note5",
         "content": "Note5 content"
-    }
+    },
     {
         "id": 6,
         "name": "Note6",
@@ -48,5 +48,5 @@
         "id": 10,
         "name": "Note10",
         "content": "Note10 content"
-    },
+    }
   ]
